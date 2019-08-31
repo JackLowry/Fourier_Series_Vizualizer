@@ -1,4 +1,4 @@
-# Fourier_Series_Vizualizer
+# Fourier Series Vizualizer
 A command line utility to approximate an svg using a fourier series.
 
 
